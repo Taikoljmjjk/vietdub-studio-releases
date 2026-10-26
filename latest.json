@@ -1,0 +1,7 @@
+{
+  "version": "6.2.1",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.1/VietDub-Studio-Lite-Setup.exe",
+  "sha512": "5C88903832268DD542E4EECE070FE493AE1E47627254B1DA2A81396D7E285283CDB8D2867B6C4AB9AA6316B602780B1314A01C22EEF10C202EC987046B7A1CFC",
+  "size": 154863749,
+  "notes": "Bản Lite tự tải công cụ còn thiếu khi khởi động lần đầu."
+}
