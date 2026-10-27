@@ -1,7 +1,8 @@
 {
-  "version": "6.2.5",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.5/VietDub-V6.2.5-Lite-Setup.exe",
-  "sha512": "1A1629C2CC0D7260D41D570E3F5CDE9154C169592B00CCE82E4727512D7731A5CF87413CA1E8C3D4147E5E06EE8264F208552F850B25FCD0A195B1E29904D37A",
-  "size": 898627934,
-  "notes": "Sửa xung đột Argos packages, hỗ trợ ổ đĩa linh hoạt, đồng bộ phiên bản và kiểm tra cập nhật khi mở ứng dụng."
+  "version": "6.2.7",
+  "displayVersion": "6.2.5",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.7/VietDub-V6.2.5-Lite-Setup.exe",
+  "sha512": "27AF2BAF028106495963FBA674F26706C1EE498154EA971A7A21C1EC202213CD7BAAAA1D5618E52C170665F90961D00DA7522D9C47F53FE8D2BFBB19427FE6D7",
+  "size": 899376297,
+  "notes": "Sửa gửi/nhận bản dịch Gemini, phục hồi phiên không tiến triển, giữ câu đã lưu; đăng nhập thủ công không kèm điều khiển và cập nhật bằng cửa sổ tiến trình độc lập. Giữ nhãn V6.2.5; build 6.2.7."
 }
