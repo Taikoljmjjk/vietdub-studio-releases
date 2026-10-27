@@ -1,8 +1,8 @@
 {
-  "version": "6.2.7",
-  "displayVersion": "6.2.5",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.7/VietDub-V6.2.5-Lite-Setup.exe",
-  "sha512": "27AF2BAF028106495963FBA674F26706C1EE498154EA971A7A21C1EC202213CD7BAAAA1D5618E52C170665F90961D00DA7522D9C47F53FE8D2BFBB19427FE6D7",
-  "size": 899376297,
-  "notes": "Sửa gửi/nhận bản dịch Gemini, phục hồi phiên không tiến triển, giữ câu đã lưu; đăng nhập thủ công không kèm điều khiển và cập nhật bằng cửa sổ tiến trình độc lập. Giữ nhãn V6.2.5; build 6.2.7."
+  "version": "6.2.8",
+  "displayVersion": "6.2.8",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.8/VietDub-V6.2.8-Lite-Setup.exe",
+  "sha512": "85FA94345E89BFEEDCEAE34C9C456920FEC614AF10157A4FE02CF097C399C7C74631C84D75DBFE4FB5CBC778F0DA4D91252CE12A5DA8B88EF2C68FE5D2A7EC63",
+  "size": 900071526,
+  "notes": "V6.2.8: sửa preview Studio, kéo phụ đề, danh sách giọng AI33Pro, chuẩn bị model offline và nâng cấp bộ cài; đồng bộ phiên bản hiển thị và cập nhật."
 }
