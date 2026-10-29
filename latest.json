@@ -1,8 +1,8 @@
 {
-  "version": "6.2.9",
-  "displayVersion": "6.2.9",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.9/VietDub-V6.2.9-Lite-Setup.exe",
-  "sha512": "13F17DB668C6632E11E5D67816FA49A32FC1C121FFC48ECBD8565D6141A00F65FA903E4A2F734C9FD3D37F8CC5CCE6FF183523135262BC8446C58D1177BE261C",
-  "size": 900302294,
-  "notes": "V6.2.9: thêm cửa sổ tiến trình cập nhật nhỏ hiện ngay khi bấm, có phần trăm, dung lượng, tốc độ tải và trạng thái kiểm tra/cài đặt; giữ dữ liệu, model và cấu hình."
+  "version": "6.2.10",
+  "displayVersion": "6.2.10",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.10/VietDub-V6.2.10-Lite-Setup.exe",
+  "sha512": "4B8B5EAA3B2A1D1D1903BCB18EBD97091C3BAAE30DB6B7BB0945FF9830DBE253739D4244EDA252F41A42A9355FCA0B483CB270CB1BBEE2FADB4FD2BC6523FE53",
+  "size": 1045576258,
+  "notes": "V6.2.10: dùng tab trình duyệt đã đăng nhập qua tiện ích VietDub để thao tác DOM; cải thiện cửa sổ tiến trình cập nhật. Giữ dữ liệu, model và cấu hình người dùng."
 }
