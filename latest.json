@@ -1,8 +1,8 @@
 {
-  "version": "6.3.0",
+  "version": "6.3.1",
   "displayVersion": "6.3",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.0/VietDub-V6.3-Lite-Setup.exe",
-  "sha512": "F11526268768844EBE1A33665DDA01340B357A52F6DBCA6D805FA8189458783BD7799C2BB659C72653709F5E08A049AD2ED3B30AC07AEA9339F331079A4EC92B",
-  "size": 1014641173,
-  "notes": "V6.3 Lite - Runtime Node.js 24.20.0 and Python 3.13.15, single-folder workspace."
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.1/VietDub-V6.3-Lite-Setup.exe",
+  "sha512": "3ACA388FBA9F4A8181DCBE0FB5D0E63E173BB879B530F553BEA39BD09698E4F1EA2C457705AB67D1618E86800239AF3A733D26C5DC4F9E6C01213A4DB593D5C6",
+  "size": 1014641136,
+  "notes": "Fix Review phim startup in the Windows installer."
 }
