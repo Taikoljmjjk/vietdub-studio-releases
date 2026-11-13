@@ -1,8 +1,8 @@
 {
-  "version": "6.2.10",
-  "displayVersion": "6.2.10",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.2.10/VietDub-V6.2.10-Lite-Setup.exe",
-  "sha512": "4B8B5EAA3B2A1D1D1903BCB18EBD97091C3BAAE30DB6B7BB0945FF9830DBE253739D4244EDA252F41A42A9355FCA0B483CB270CB1BBEE2FADB4FD2BC6523FE53",
-  "size": 1045576258,
-  "notes": "V6.2.10: dùng tab trình duyệt đã đăng nhập qua tiện ích VietDub để thao tác DOM; cải thiện cửa sổ tiến trình cập nhật. Giữ dữ liệu, model và cấu hình người dùng."
+  "version": "6.3.0",
+  "displayVersion": "6.3",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.0/VietDub-V6.3-Lite-Setup.exe",
+  "sha512": "F11526268768844EBE1A33665DDA01340B357A52F6DBCA6D805FA8189458783BD7799C2BB659C72653709F5E08A049AD2ED3B30AC07AEA9339F331079A4EC92B",
+  "size": 1014641173,
+  "notes": "V6.3 Lite - Runtime Node.js 24.20.0 and Python 3.13.15, single-folder workspace."
 }
