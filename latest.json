@@ -1,8 +1,8 @@
 {
-  "version": "6.3.1",
+  "version": "6.3.2",
   "displayVersion": "6.3",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.1/VietDub-V6.3-Lite-Setup.exe",
-  "sha512": "3ACA388FBA9F4A8181DCBE0FB5D0E63E173BB879B530F553BEA39BD09698E4F1EA2C457705AB67D1618E86800239AF3A733D26C5DC4F9E6C01213A4DB593D5C6",
-  "size": 1014641136,
-  "notes": "Fix Review phim startup in the Windows installer."
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.2/VietDub-V6.3-Lite-Setup.exe",
+  "sha512": "94DE6175662DE86297D555747CEA105AFB59BCF069248B562B26D9692DF9F8BEDAA02FFD800CAEFD8E04D93FDD31FF08D0079DCDE8F166977BED1766C6EA5A4A",
+  "size": 1014641173,
+  "notes": "Cập nhật kết nối đăng nhập trong bộ cài Windows."
 }
