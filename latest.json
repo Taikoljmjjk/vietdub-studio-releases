@@ -1,8 +1,8 @@
 {
-  "version": "6.3.2",
-  "displayVersion": "6.3",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.3.2/VietDub-V6.3-Lite-Setup.exe",
-  "sha512": "94DE6175662DE86297D555747CEA105AFB59BCF069248B562B26D9692DF9F8BEDAA02FFD800CAEFD8E04D93FDD31FF08D0079DCDE8F166977BED1766C6EA5A4A",
-  "size": 1014641173,
-  "notes": "Cập nhật kết nối đăng nhập trong bộ cài Windows."
+  "version": "6.4.0",
+  "displayVersion": "6.4",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.4.0/VietDub-V6.4-Setup.exe",
+  "sha512": "31059D1CEC91C4256E1BB49D93C7E08B47860574F5C6E4D27105B7C6F0359EBB39780E6938C04A0CCAD845414718636AF15FB551BAD20E6E1915C78C90C3DFDE",
+  "size": 1536039583,
+  "notes": "Cập nhật Studio với chế độ xuất tự do; tinh gọn Voice Studio, cài đặt theo công cụ và các liên kết ưu đãi; cải thiện bộ cài và kiểm tra giọng đọc."
 }
