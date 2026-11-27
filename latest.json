@@ -1,8 +1,8 @@
 {
-  "version": "6.4.0",
-  "displayVersion": "6.4",
-  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.4.0/VietDub-V6.4-Setup.exe",
-  "sha512": "31059D1CEC91C4256E1BB49D93C7E08B47860574F5C6E4D27105B7C6F0359EBB39780E6938C04A0CCAD845414718636AF15FB551BAD20E6E1915C78C90C3DFDE",
-  "size": 1536039583,
-  "notes": "Cập nhật Studio với chế độ xuất tự do; tinh gọn Voice Studio, cài đặt theo công cụ và các liên kết ưu đãi; cải thiện bộ cài và kiểm tra giọng đọc."
+  "version": "6.4.1",
+  "displayVersion": "6.4.1",
+  "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.4.1/VietDub-V6.4.1-Setup.exe",
+  "sha512": "70FCD84CD4EEDA20EF3F5EFA4205153261F510C87B360391E22AEF3E73CDFECD55EB2FDF432658FC4451FD6B9ABF6B1A8A24161DECD11B294C9DFFC9F1F0C974",
+  "size": 1536787103,
+  "notes": "Sửa kết nối Gemini: tự nhận tab đang mở, không mở thêm cửa sổ. Sau cập nhật, tải lại tiện ích VietDub và làm mới tab Gemini một lần."
 }
