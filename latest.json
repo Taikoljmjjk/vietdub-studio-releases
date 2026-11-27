@@ -1,8 +1,8 @@
 {
-  "version": "6.4.1",
+  "version": "0.0.0",
   "displayVersion": "6.4.1",
   "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.4.1/VietDub-V6.4.1-Setup.exe",
   "sha512": "70FCD84CD4EEDA20EF3F5EFA4205153261F510C87B360391E22AEF3E73CDFECD55EB2FDF432658FC4451FD6B9ABF6B1A8A24161DECD11B294C9DFFC9F1F0C974",
   "size": 1536787103,
-  "notes": "Sửa kết nối Gemini: tự nhận tab đang mở, không mở thêm cửa sổ. Sau cập nhật, tải lại tiện ích VietDub và làm mới tab Gemini một lần."
+  "notes": "Tạm dừng phân phối để kiểm tra lỗi khách báo. Chưa có bản cập nhật mới."
 }
