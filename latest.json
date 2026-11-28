@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
+  "version": "6.4.1",
   "displayVersion": "6.4.1",
   "installerUrl": "https://github.com/Taikoljmjjk/vietdub-studio-releases/releases/download/v6.4.1/VietDub-V6.4.1-Setup.exe",
-  "sha512": "70FCD84CD4EEDA20EF3F5EFA4205153261F510C87B360391E22AEF3E73CDFECD55EB2FDF432658FC4451FD6B9ABF6B1A8A24161DECD11B294C9DFFC9F1F0C974",
-  "size": 1536787103,
-  "notes": "Tạm dừng phân phối để kiểm tra lỗi khách báo. Chưa có bản cập nhật mới."
+  "sha512": "A8B0608D38AB80FF94FC411EFD8CBC005280B9EA19C12488E7FDE9CADDB5575557EB02B7A1063B9311D6A576FD8A829370D79144ACC938987F1CC60FB21F42D8",
+  "size": 1537205358,
+  "notes": "Bản sửa lỗi: nhận video từ máy trong Review; xử lý lời kể Gemini; cải thiện đọc báo; Studio thêm Cho phép trùng lặp và giữ đúng SRT tải lên. Máy đã có6.4.1 cũ cần tải bộ cài mới và cài lại."
 }
